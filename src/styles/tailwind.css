@@ -1,0 +1,26 @@
+/* 
+  File Name: tailwind.css
+  Student Name: Avinnash Suthaharan
+  Student ID: 301488418
+  Date: 2025-09-25
+*/
+
+/* ============================================================
+   Tailwind Directives
+   Description:
+   Imports Tailwind base styles, components, and utilities
+   ============================================================ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   Global Styles
+   Description:
+   Sets the default font family and background color for the body
+   ============================================================ */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f6f4f0;
+}
+
