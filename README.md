@@ -49,6 +49,7 @@ A personal developer portfolio website showcasing my projects, skills, and conta
 - Added hover animation to logo
 - Fixed overlapping issue on mobile
 - Updated resume file
+- Fixed refresh 404 error on all pages
 
 ### v1.0.0 – September 2025
 - Initial release of the portfolio
