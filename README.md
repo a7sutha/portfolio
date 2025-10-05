@@ -25,15 +25,15 @@ A personal developer portfolio website showcasing my projects, skills, and conta
    git clone https://github.com/a7sutha/portfolio
 
 2. Navigate into the project folder
-    
+   ```bash 
     cd portfolio
 
 3. Install dependencies
-
+    ```bash
     npm install
 
 4. Start the development server
-
+    ```bash
     npm start
 
 ## 🔮 Future Improvements
@@ -57,7 +57,7 @@ A personal developer portfolio website showcasing my projects, skills, and conta
 ## 📫 Contact / Links
 - Email: asuthah2@my.centennialcollege.ca
 - Portfolio: [avinnash.netlify.app](https://avinnash.netlify.app/)
-- GitHub: [github.com/yourusername](https://github.com/a7sutha)
+- GitHub: [github.com/a7sutha](https://github.com/a7sutha)
 
 
 
