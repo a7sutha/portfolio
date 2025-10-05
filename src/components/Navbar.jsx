@@ -33,7 +33,7 @@ function Navbar() {
           <img
             src={logo}
             alt="logo"
-            className="h-16 sm:h-28 md:h-32 lg:h-36 
+            className="h-16 sm:h-28 md:h-32 lg:h-36
             cursor-pointer hover:scale-105 transition-transform duration-300 
             flex items-center justify-center"
           />
@@ -41,7 +41,7 @@ function Navbar() {
       </div>
 
       {/* Navigation Links */}
-      <div className="flex-1 flex justify-center gap-8 text-lg">
+      <div className="flex-1 flex justify-center gap-8 text-lg mr-12">
         <Link to="/" className="cursor-pointer hover:text-blue-600 
         transition delay-100">
           Home
