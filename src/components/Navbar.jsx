@@ -33,15 +33,15 @@ function Navbar() {
           <img
             src={logo}
             alt="logo"
-            className="h-20 w-auto sm:h-28 md:h-32 lg:h-36 -ml-4 
-            cursor-pointer"
+            className="h-16 sm:h-28 md:h-32 lg:h-36 
+            cursor-pointer hover:scale-105 transition-transform duration-300 
+            flex items-center justify-center"
           />
         </Link>
       </div>
 
       {/* Navigation Links */}
-      <div className="absolute left-1/2 transform -translate-x-1/2 
-      flex items-center gap-8 text-lg">
+      <div className="flex-1 flex justify-center gap-8 text-lg">
         <Link to="/" className="cursor-pointer hover:text-blue-600 
         transition delay-100">
           Home
