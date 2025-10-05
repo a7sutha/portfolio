@@ -1,4 +1,4 @@
-# Avinnash Suthaharan's Developer Portfolio
+# My Portfolio
 
 A personal developer portfolio website showcasing my projects, skills, and contact information. Built with React and Tailwind CSS, it is fully responsive and optimized for modern browsers.
 
@@ -53,7 +53,7 @@ A personal developer portfolio website showcasing my projects, skills, and conta
 
 ### v1.0.0 – September 2025
 - Initial release of the portfolio
-- Includes Home, About, Projects, Services, and Contact sections
+- Includes Home, About, Projects, Services, and Contact pages
 
 ## 📫 Contact / Links
 - Email: asuthah2@my.centennialcollege.ca
